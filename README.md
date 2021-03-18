@@ -2,7 +2,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/raindevelopment/WATER?style=flat-square)
 
 # WATER
-WATER is a community driven all-in-one programming language based on Java. The language is compiled via the WATERcompiler.
+WATER is a community driven all-in-one programming language based on Python. The language is compiled via the WATERcompiler.
 
 ## Contribute
 Feel free to contribute! WATER is open and community driven. Without you this project wouldn't even exist!
